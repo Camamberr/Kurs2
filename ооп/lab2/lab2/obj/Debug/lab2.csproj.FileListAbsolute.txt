@@ -1,0 +1,8 @@
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\bin\Debug\lab2.exe.config
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\bin\Debug\lab2.exe
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\bin\Debug\lab2.pdb
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\obj\Debug\lab2.exe
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\obj\Debug\lab2.pdb
+C:\чорт\Учёба\2КУРС\ооп\lab2\lab2\obj\Debug\lab2.exe.config

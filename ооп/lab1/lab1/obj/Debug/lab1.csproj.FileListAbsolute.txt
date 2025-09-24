@@ -1,0 +1,8 @@
+C:\чорт\magic girl 2008\labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\чорт\magic girl 2008\labs\lab1\lab1\bin\Debug\lab1.exe
+C:\чорт\magic girl 2008\labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\чорт\magic girl 2008\labs\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\чорт\magic girl 2008\labs\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\чорт\magic girl 2008\labs\lab1\lab1\obj\Debug\lab1.exe
+C:\чорт\magic girl 2008\labs\lab1\lab1\obj\Debug\lab1.pdb
+C:\чорт\magic girl 2008\labs\lab1\lab1\obj\Debug\lab1.exe.config
